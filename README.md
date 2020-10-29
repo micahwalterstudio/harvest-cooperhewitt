@@ -12,6 +12,6 @@ Download all the object data from Cooper Hewitt's API.
 
 4. Run
 
-    $ python harvest.py
+    `$ python harvest.py`
 
 5. Wait....
