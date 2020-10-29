@@ -57,8 +57,8 @@ def main():
     if not os.path.exists('data'):
         os.mkdir('data')
 
-    #departments = [35347493, 35347497, 35347501, 35347503, 35518655]
-    departments = [35518655]
+    departments = [35347493, 35347497, 35347501, 35347503, 35518655]
+    # departments = [35518655]
 
     # loop through the five Cooper Hewitt departments
     for department in departments:
